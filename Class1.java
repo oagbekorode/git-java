@@ -17,6 +17,6 @@ public class Class1 {
         //Placeholder method (v3.0)
     }
     private void f4() {
-        //Placeholder method (v4.0)
+        //v4.0 (under development)
     }
 }
